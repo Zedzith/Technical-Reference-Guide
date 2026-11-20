@@ -13,7 +13,7 @@ A single-file interactive reference for IT break/fix and systems engineering wor
 - Everything starts collapsed. Click a title to open it
 
 ## Open it
-- Live page (after enabling GitHub Pages): https://zedzith.github.io/technical-reference-guide/
+- Live page (after enabling GitHub Pages): https://zedzith.github.io/Technical-Reference-Guide/
 - Or download `index.html` and open it in any browser. No install needed
 
 ## Notes
